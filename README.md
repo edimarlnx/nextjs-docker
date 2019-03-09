@@ -14,3 +14,16 @@ COPY next.config.js /app/next.config.js
 
 RUN yarn install --production
 ```
+
+## Version 7
+##### Node and package manager
+- Node: 8
+- npm
+- yarn
+
+##### NPMs versions
+- next: ~7.0.3
+- next-routes: ~1.4.2
+- react: ~16.8.4
+- react-dom: ~16.8.4
+- @zeit/next-css: ~1.0.1
