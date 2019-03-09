@@ -1,4 +1,4 @@
-# nextjs-docker
+# Nextjs Docker
 
 Usage example
 
