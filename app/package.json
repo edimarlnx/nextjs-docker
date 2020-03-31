@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "next": "~7.0.3",
+    "next": "~9.3.3",
     "next-routes": "~1.4.2",
     "react": "~16.8.4",
     "react-dom": "~16.8.4",
